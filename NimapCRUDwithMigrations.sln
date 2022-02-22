@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NimapCRUDwithMigrations", "NimapCRUDwithMigrations\NimapCRUDwithMigrations.csproj", "{538285FE-1875-4271-9213-C737407A6142}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{538285FE-1875-4271-9213-C737407A6142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538285FE-1875-4271-9213-C737407A6142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538285FE-1875-4271-9213-C737407A6142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538285FE-1875-4271-9213-C737407A6142}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A1A62BE-E7F2-4000-88A2-E10AB0D25FF9}
+	EndGlobalSection
+EndGlobal
